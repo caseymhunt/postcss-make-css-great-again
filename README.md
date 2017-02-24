@@ -34,6 +34,6 @@ npm start
 Check inspector to see the greatest CSS.
 
 ## Giant's Shoulders...
-The real hero here is [kunukn] who created [PAPV] (postcss-alter-property-value), the plugin I modified to create MCGA.
+The real hero here is [kunukn] who created [PAPV][papv] (postcss-alter-property-value), the plugin I modified to create MCGA.
 
 All accolodes belong to him. I'm just super good at google/stealing.
