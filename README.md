@@ -11,11 +11,13 @@ The greatest [PostCSS] plugin. Everyone tells me this, it's the best plugin. It'
 ```css
 .foo {
     width: yuuge;
+    font-size: tremendous;
 }
 ```
 ```css
 .foo {
     width: 100% !important;
+    font-size: 80%;
 }
 ```
 

@@ -19,6 +19,9 @@ body {
     font-family: sans-serif;
     background: #bada55;
 }
+p.tremendous {
+    font-size: tremendous;
+}
 p {
     font-size: 1.5rem;
     font-weight: 100;

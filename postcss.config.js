@@ -11,6 +11,11 @@ module.exports = {
               to: '100% !important',
               whenValueEquals: 'yuuge'
           },
+          'font-size': {
+              task: 'changeValue',
+              to: '80%',
+              whenValueEquals: 'tremendous'
+          },
         },
       }),
   ]
